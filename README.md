@@ -37,25 +37,6 @@ Durante o desenvolvimento foram utilizados conceitos como:
 * Geração de números aleatórios
 * Controle de fluxo
 
-## ▶️ Como executar
-
-### 1. Clone o repositório
-
-```bash
-git clone https://github.com/SEU-USUARIO/sistema-login-python.git
-```
-
-### 2. Entre na pasta
-
-```bash
-cd sistema-login-python
-```
-
-### 3. Execute o programa
-
-```bash
-python main.py
-```
 
 ## 🎯 Objetivo
 
@@ -73,4 +54,4 @@ Este projeto foi desenvolvido como prática de programação em Python e como pa
 
 ---
 
-**Desenvolvido por Gustavo Pereira Furlanoq**
+**Desenvolvido por Gustavo Pereira Furlan**
